@@ -1,3 +1,3 @@
-<center><h1>👋 Hi, I’m Usama</h1></center>
+<h1><center>👋 Hi, I’m Usama</center></h1>
 
 
